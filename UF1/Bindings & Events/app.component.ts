@@ -1,19 +1,12 @@
 import { Component } from '@angular/core';
-
-interface Character {
-  name: string;
-  strength: number;
-  agility: number;
-  intelligence: number;
-  life: number;
-  editable?: boolean;
-}
+import { Character } from './interfaces/character';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+
 export class AppComponent {
   serverCharacters: Character[] = [];
   personaje: string = '';

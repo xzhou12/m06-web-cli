@@ -3,10 +3,12 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
 import { FormsModule } from '@angular/forms';
+import { InterfacesComponent } from './interfaces/interfaces/interfaces.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    InterfacesComponent
   ],
   imports: [
     BrowserModule,

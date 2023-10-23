@@ -1,14 +1,5 @@
 import { Component } from '@angular/core';
-
-interface Character {
-  name: string;
-  strength: number;
-  agility: number;
-  intelligence: number;
-  life: number;
-  editable?: boolean;
-  isShown?: boolean;
-}
+import { Character } from './interfaces/character';
 
 @Component({
   selector: 'app-root',
