@@ -1,0 +1,30 @@
+<div class="text-festiu">
+  <p *ngFor="let festividad of festividades" [ngStyle]="{'color': festividad.color}">{{ festividad.tipo }}</p>
+</div>
+<div class="calendarios">
+  <div *ngFor="let mes of meses" [class]="mes.nombre.toLowerCase()">
+    <table>
+      <thead>
+      <tr>
+        <td colspan="7">{{ mes.nombre }}</td>
+      </tr>
+      </thead>
+      <tbody>
+      <tr class="dias_semana">
+        <td>L</td>
+        <td>M</td>
+        <td>X</td>
+        <td>J</td>
+        <td>V</td>
+        <td>S</td>
+        <td>D</td>
+      </tr>
+      <tr *ngFor="let semana of mes.dias">
+        <td *ngFor="let dia of semana" [ngClass]="dia.clase">{{ dia.numero }}</td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
