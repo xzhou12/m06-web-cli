@@ -5,3 +5,4 @@
 * [**Bindings & Events con Directivas Estructurales**](https://github.com/xzhou12/m06-web-cli/tree/UF1/UF1/Bindings%20%26%20Events%20con%20Directivas%20Estructurales)
 ## [**UF2**](https://github.com/xzhou12/m06-web-cli/tree/UF2/UF2)
 * [**Directivas de atributo**](https://github.com/xzhou12/m06-web-cli/tree/UF2/UF2/Directivas%20de%20atributo)
+* [**EventoMania**](https://github.com/xzhou12/m06-web-cli/tree/UF2/UF2/EventoMania)
