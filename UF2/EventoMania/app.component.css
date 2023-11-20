@@ -1,0 +1,10 @@
+.proximos-eventos, .eventos-pasados{
+  display: flex;
+  gap: 20px;
+}
+
+.proximos-eventos > div,
+.eventos-pasados > div{
+  border: 1px solid #000;
+  padding: 2rem;
+}
