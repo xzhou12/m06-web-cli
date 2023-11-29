@@ -6,3 +6,4 @@
 ## [**UF2**](https://github.com/xzhou12/m06-web-cli/tree/UF2/UF2)
 * [**Directivas de atributo**](https://github.com/xzhou12/m06-web-cli/tree/UF2/UF2/Directivas%20de%20atributo)
 * [**EventoMania**](https://github.com/xzhou12/m06-web-cli/tree/UF2/UF2/EventoMania)
+* [**EventoMania2**](https://github.com/xzhou12/m06-web-cli/tree/UF2/UF2/EventoMania2)
