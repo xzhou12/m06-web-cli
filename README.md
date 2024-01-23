@@ -9,3 +9,4 @@
 * [**EventoMania2**](https://github.com/xzhou12/m06-web-cli/tree/UF2/UF2/EventoMania2)
 * [**Kanban Board 1**](https://github.com/xzhou12/m06-web-cli/tree/UF2/UF2/Kanban%20Board%201)
 * [**Kanban Board 2**](https://github.com/xzhou12/m06-web-cli/tree/UF2/UF2/Kanban%20Board%202)
+* [**UF2 Validación**](https://github.com/xzhou12/m06-web-cli/tree/UF2/UF2/UF2_Validacion)
